@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823940884270",
+    "firebase_url": "https://petbag-eeb21.firebaseio.com",
+    "project_id": "petbag-eeb21",
+    "storage_bucket": "petbag-eeb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823940884270:android:d5b670aac26443533a7cbf",
+        "android_client_info": {
+          "package_name": "com.petbaggo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823940884270-2m6n9cd19vg1b0jleq08vlv86l6pqo5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petbaggo",
+            "certificate_hash": "75db7de5584984a9245a8f5c63ae5af026fa6db4"
+          }
+        },
+        {
+          "client_id": "823940884270-jr23prvbhuale8dqt85bf16q5454hi89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DPDrn62b329hNNIqb3t-c1bEPaSjDAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823940884270-jr23prvbhuale8dqt85bf16q5454hi89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
